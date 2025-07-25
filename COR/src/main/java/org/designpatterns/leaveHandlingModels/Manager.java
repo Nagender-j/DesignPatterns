@@ -1,4 +1,4 @@
-package org.designpatterns.models;
+package org.designpatterns.leaveHandlingModels;
 
 public class Manager extends AbstractLeaveHandler {
     public Manager(LeaveHandler leaveHandler) {

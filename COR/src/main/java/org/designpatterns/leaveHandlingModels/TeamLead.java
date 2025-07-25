@@ -1,4 +1,4 @@
-package org.designpatterns.models;
+package org.designpatterns.leaveHandlingModels;
 
 public class TeamLead extends AbstractLeaveHandler {
     public TeamLead(LeaveHandler nextHandler) {

@@ -1,4 +1,4 @@
-package org.designpatterns.models;
+package org.designpatterns.leaveHandlingModels;
 
 public abstract class AbstractLeaveHandler implements LeaveHandler {
     public LeaveHandler nextHandler;
