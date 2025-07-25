@@ -1,9 +1,9 @@
 package org.designpatterns;
 
-import org.designpatterns.models.Director;
-import org.designpatterns.models.LeaveHandler;
-import org.designpatterns.models.Manager;
-import org.designpatterns.models.TeamLead;
+import org.designpatterns.leaveHandlingModels.Director;
+import org.designpatterns.leaveHandlingModels.LeaveHandler;
+import org.designpatterns.leaveHandlingModels.Manager;
+import org.designpatterns.leaveHandlingModels.TeamLead;
 
 public class TestCOR {
     public static void main(String[] args) {

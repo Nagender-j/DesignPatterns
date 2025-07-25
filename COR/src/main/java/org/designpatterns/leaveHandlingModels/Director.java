@@ -1,4 +1,4 @@
-package org.designpatterns.models;
+package org.designpatterns.leaveHandlingModels;
 
 public class Director extends AbstractLeaveHandler {
 
